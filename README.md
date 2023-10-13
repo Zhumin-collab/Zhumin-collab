@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi My name is YuanZhumin,a graduate student from the USTC 👋
+- 🌱 I’m currently learning computer graphic.
+- 😄 Pronouns: him.
+- Thank you
 <!--
 **Zhumin-collab/Zhumin-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
